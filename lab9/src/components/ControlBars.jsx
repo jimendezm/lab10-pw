@@ -1,4 +1,5 @@
 import React from 'react';
+import '../styles/ControlBars.css';
 
 const ControlsBar = ({
   format,
